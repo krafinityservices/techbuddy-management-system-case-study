@@ -1,4 +1,4 @@
-# TechBuddy Management System
+### [TechBuddy Management System](https://github.com/krafinityservices/techbuddy-management-system-case-study)
 
 ### Custom Repair Business Management System
 
