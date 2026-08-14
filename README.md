@@ -73,6 +73,11 @@ Customer warranty history linked to repair items and invoice records.
 
 Item-level stock tracking with supplier, exact cost, purchase order, grade, and warranty references.
 
+### Customer-Facing Service Tracking
+![Customer-Facing Service Tracking](assets/repair-status-tracking.png)
+
+Public repair-status access connected to internal service records, with privacy-focused verification.
+
 ---
 
 ## Repair-Specific Workflow
