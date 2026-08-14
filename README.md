@@ -46,6 +46,33 @@ TechBuddy Management System provides a centralized workflow for managing:
 - Payroll
 - Operational reporting
 
+## Interface Highlights
+
+### Jobsheet Intake
+![Jobsheet Intake](assets/jobsheet-intake.png)
+
+Customer and device intake workflow with essential repair information and structured service records.
+
+### Pre-Repair Checklist
+![Pre-Repair Checklist](assets/pre-repair-checklist.png)
+
+Repair-specific SOP checklist for recording device condition before service.
+
+### Device Security
+![Device Security](assets/device-security.png)
+
+Internal device access record designed for repair testing workflows.
+
+### Customer Warranty
+![Customer Warranty](assets/customer-warranty.png)
+
+Customer warranty history linked to repair items and invoice records.
+
+### Inventory Traceability
+![Inventory Traceability](assets/inventory-traceability.png)
+
+Item-level stock tracking with supplier, exact cost, purchase order, grade, and warranty references.
+
 ---
 
 ## Repair-Specific Workflow
